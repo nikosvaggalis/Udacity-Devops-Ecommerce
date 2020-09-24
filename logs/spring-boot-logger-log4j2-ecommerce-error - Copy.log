@@ -1,0 +1,71 @@
+2020-09-23 10:31:43,138 ERROR c.e.d.c.UserController [http-nio-8080-exec-6] USER:Cannot find user by id 12 
+2020-09-23 10:33:09,467 ERROR c.e.d.c.OrderController [http-nio-8080-exec-7] ORDER:User nikos1 not found.Cannot submit Order
+2020-09-23 10:33:33,859 ERROR c.e.d.c.OrderController [http-nio-8080-exec-9] ORDER:User nikos1 not found. Cannot retrieve Order history
+2020-09-23 10:33:41,343 ERROR c.e.d.c.OrderController [http-nio-8080-exec-10] ORDER:User nikos1 not found. Cannot retrieve Order history
+2020-09-23 10:33:57,772 ERROR c.e.d.c.ItemController [http-nio-8080-exec-3] ITEM:Cannot find item by id 12 
+2020-09-23 10:36:33,504 ERROR c.e.d.c.OrderController [http-nio-8080-exec-10] ORDER:User nikos1 not found. Cannot retrieve Order history
+2020-09-23 10:36:48,568 ERROR c.e.d.c.OrderController [http-nio-8080-exec-1] ORDER:User nikos1 not found. Cannot retrieve Order history
+2020-09-23 10:36:58,136 ERROR c.e.d.c.ItemController [http-nio-8080-exec-3] ITEM:Cannot find item by id 12 
+2020-09-23 10:24:31,048 INFO c.e.d.c.UserController [http-nio-8080-exec-1] USER:User nikos1 created successfully 
+2020-09-23 10:30:42,398 INFO c.e.d.c.ItemController [http-nio-8080-exec-1] ITEM:All items were retrieved successfully
+2020-09-23 10:30:48,962 INFO c.e.d.c.ItemController [http-nio-8080-exec-2] ITEM:Item with id 1 was retrieved successfully
+2020-09-23 10:31:10,742 INFO c.e.d.c.UserController [http-nio-8080-exec-4] USER:User 1 found by id 
+2020-09-23 10:31:38,297 INFO c.e.d.c.UserController [http-nio-8080-exec-5] USER:User 1 found by id 
+2020-09-23 10:31:54,575 INFO c.e.d.c.UserController [http-nio-8080-exec-8] USER:User nikos1 found by name 
+2020-09-23 10:32:19,093 INFO c.e.d.c.CartController [http-nio-8080-exec-10] CART:Attempting to add item with id 0 to Cart
+2020-09-23 10:32:19,093 INFO c.e.d.c.CartController [http-nio-8080-exec-10] CART:Attempting to add item with id 1 to Cart
+2020-09-23 10:32:19,093 INFO c.e.d.c.CartController [http-nio-8080-exec-10] CART:Attempting to add item with id 2 to Cart
+2020-09-23 10:32:19,093 INFO c.e.d.c.CartController [http-nio-8080-exec-10] CART:Attempting to add item with id 3 to Cart
+2020-09-23 10:32:19,093 INFO c.e.d.c.CartController [http-nio-8080-exec-10] CART:Attempting to add item with id 4 to Cart
+2020-09-23 10:32:19,093 INFO c.e.d.c.CartController [http-nio-8080-exec-10] CART:Attempting to add item with id 5 to Cart
+2020-09-23 10:32:19,093 INFO c.e.d.c.CartController [http-nio-8080-exec-10] CART:Attempting to add item with id 6 to Cart
+2020-09-23 10:32:19,093 INFO c.e.d.c.CartController [http-nio-8080-exec-10] CART:Attempting to add item with id 7 to Cart
+2020-09-23 10:32:19,094 INFO c.e.d.c.CartController [http-nio-8080-exec-10] CART:Attempting to add item with id 8 to Cart
+2020-09-23 10:32:19,094 INFO c.e.d.c.CartController [http-nio-8080-exec-10] CART:Attempting to add item with id 9 to Cart
+2020-09-23 10:32:19,118 INFO c.e.d.c.CartController [http-nio-8080-exec-10] CART:All items successfully added from Cart
+2020-09-23 10:32:35,782 INFO c.e.d.c.CartController [http-nio-8080-exec-3] CART:Attempting to remove item with id 0 from cart
+2020-09-23 10:32:35,782 INFO c.e.d.c.CartController [http-nio-8080-exec-3] CART:Attempting to remove item with id 1 from cart
+2020-09-23 10:32:35,782 INFO c.e.d.c.CartController [http-nio-8080-exec-3] CART:Attempting to remove item with id 2 from cart
+2020-09-23 10:32:35,782 INFO c.e.d.c.CartController [http-nio-8080-exec-3] CART:Attempting to remove item with id 3 from cart
+2020-09-23 10:32:35,791 INFO c.e.d.c.CartController [http-nio-8080-exec-3] CART:All items successfully removed from Cart
+2020-09-23 10:33:50,243 INFO c.e.d.c.ItemController [http-nio-8080-exec-1] ITEM:All items were retrieved successfully
+2020-09-23 10:33:55,773 INFO c.e.d.c.ItemController [http-nio-8080-exec-2] ITEM:Item with id 1 was retrieved successfully
+2020-09-23 10:35:00,376 INFO c.e.d.c.CartController [http-nio-8080-exec-6] CART:Attempting to remove item with id 0 from cart
+2020-09-23 10:35:00,376 INFO c.e.d.c.CartController [http-nio-8080-exec-6] CART:Attempting to remove item with id 1 from cart
+2020-09-23 10:35:00,376 INFO c.e.d.c.CartController [http-nio-8080-exec-6] CART:Attempting to remove item with id 2 from cart
+2020-09-23 10:35:00,376 INFO c.e.d.c.CartController [http-nio-8080-exec-6] CART:Attempting to remove item with id 3 from cart
+2020-09-23 10:35:00,381 INFO c.e.d.c.CartController [http-nio-8080-exec-6] CART:All items successfully removed from Cart
+2020-09-23 10:35:22,678 INFO c.e.d.c.CartController [http-nio-8080-exec-7] CART:Attempting to remove item with id 0 from cart
+2020-09-23 10:35:22,678 INFO c.e.d.c.CartController [http-nio-8080-exec-7] CART:Attempting to remove item with id 1 from cart
+2020-09-23 10:35:22,678 INFO c.e.d.c.CartController [http-nio-8080-exec-7] CART:Attempting to remove item with id 2 from cart
+2020-09-23 10:35:22,678 INFO c.e.d.c.CartController [http-nio-8080-exec-7] CART:Attempting to remove item with id 3 from cart
+2020-09-23 10:35:22,681 INFO c.e.d.c.CartController [http-nio-8080-exec-7] CART:All items successfully removed from Cart
+2020-09-23 10:35:27,703 INFO c.e.d.c.CartController [http-nio-8080-exec-8] CART:Attempting to remove item with id 0 from cart
+2020-09-23 10:35:27,703 INFO c.e.d.c.CartController [http-nio-8080-exec-8] CART:Attempting to remove item with id 1 from cart
+2020-09-23 10:35:27,703 INFO c.e.d.c.CartController [http-nio-8080-exec-8] CART:Attempting to remove item with id 2 from cart
+2020-09-23 10:35:27,703 INFO c.e.d.c.CartController [http-nio-8080-exec-8] CART:Attempting to remove item with id 3 from cart
+2020-09-23 10:35:27,706 INFO c.e.d.c.CartController [http-nio-8080-exec-8] CART:All items successfully removed from Cart
+2020-09-23 10:35:41,733 INFO c.e.d.c.CartController [http-nio-8080-exec-9] CART:Attempting to add item with id 0 to Cart
+2020-09-23 10:35:41,734 INFO c.e.d.c.CartController [http-nio-8080-exec-9] CART:Attempting to add item with id 1 to Cart
+2020-09-23 10:35:41,734 INFO c.e.d.c.CartController [http-nio-8080-exec-9] CART:Attempting to add item with id 2 to Cart
+2020-09-23 10:35:41,734 INFO c.e.d.c.CartController [http-nio-8080-exec-9] CART:Attempting to add item with id 3 to Cart
+2020-09-23 10:35:41,734 INFO c.e.d.c.CartController [http-nio-8080-exec-9] CART:Attempting to add item with id 4 to Cart
+2020-09-23 10:35:41,734 INFO c.e.d.c.CartController [http-nio-8080-exec-9] CART:Attempting to add item with id 5 to Cart
+2020-09-23 10:35:41,734 INFO c.e.d.c.CartController [http-nio-8080-exec-9] CART:Attempting to add item with id 6 to Cart
+2020-09-23 10:35:41,734 INFO c.e.d.c.CartController [http-nio-8080-exec-9] CART:Attempting to add item with id 7 to Cart
+2020-09-23 10:35:41,734 INFO c.e.d.c.CartController [http-nio-8080-exec-9] CART:Attempting to add item with id 8 to Cart
+2020-09-23 10:35:41,734 INFO c.e.d.c.CartController [http-nio-8080-exec-9] CART:Attempting to add item with id 9 to Cart
+2020-09-23 10:35:41,740 INFO c.e.d.c.CartController [http-nio-8080-exec-9] CART:All items successfully added from Cart
+2020-09-23 10:36:51,447 INFO c.e.d.c.ItemController [http-nio-8080-exec-2] ITEM:All items were retrieved successfully
+2020-09-23 10:37:03,601 INFO c.e.d.c.ItemController [http-nio-8080-exec-4] ITEM:Item with id 2 was retrieved successfully
+2020-09-23 10:31:43,138 ERROR c.e.d.c.UserController [http-nio-8080-exec-6] USER:Cannot find user by id 12 
+2020-09-23 10:33:09,467 ERROR c.e.d.c.OrderController [http-nio-8080-exec-7] ORDER:User nikos1 not found.Cannot submit Order
+2020-09-23 10:33:33,859 ERROR c.e.d.c.OrderController [http-nio-8080-exec-9] ORDER:User nikos1 not found. Cannot retrieve Order history
+2020-09-23 10:33:41,343 ERROR c.e.d.c.OrderController [http-nio-8080-exec-10] ORDER:User nikos1 not found. Cannot retrieve Order history
+2020-09-23 10:33:57,772 ERROR c.e.d.c.ItemController [http-nio-8080-exec-3] ITEM:Cannot find item by id 12 
+2020-09-23 10:36:33,504 ERROR c.e.d.c.OrderController [http-nio-8080-exec-10] ORDER:User nikos1 not found. Cannot retrieve Order history
+2020-09-23 10:36:48,568 ERROR c.e.d.c.OrderController [http-nio-8080-exec-1] ORDER:User nikos1 not found. Cannot retrieve Order history
+2020-09-23 10:36:58,136 ERROR c.e.d.c.ItemController [http-nio-8080-exec-3] ITEM:Cannot find item by id 12 
+2020-09-23 12:04:32,928 INFO c.e.d.c.UserController [http-nio-8080-exec-7] USER:User 1 found by id 
+2020-09-23 12:12:42,979 INFO c.e.d.c.UserController [http-nio-8080-exec-9] USER:User 1 found by id 
+2020-09-23 12:12:47,182 INFO c.e.d.c.UserController [http-nio-8080-exec-10] USER:User nikos1 found by name 

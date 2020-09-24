@@ -1,0 +1,10 @@
+2020-09-23 17:17:55,684 ERROR c.e.d.c.CartController [http-nio-8080-exec-7] CART:User nikos11 not found.Cannot remove Cart
+2020-09-23 17:18:00,187 ERROR c.e.d.c.CartController [http-nio-8080-exec-8] CART:User nikos11 not found.Cannot remove Cart
+2020-09-23 23:24:42,551 ERROR c.e.d.c.UserController [http-nio-8080-exec-6] USER:Cannot create user nikos
+2020-09-23 23:24:43,378 ERROR c.e.d.c.UserController [http-nio-8080-exec-7] USER:Cannot create user nikos
+2020-09-23 23:24:44,085 ERROR c.e.d.c.UserController [http-nio-8080-exec-8] USER:Cannot create user nikos
+2020-09-23 23:24:44,663 ERROR c.e.d.c.UserController [http-nio-8080-exec-9] USER:Cannot create user nikos
+2020-09-23 23:24:45,184 ERROR c.e.d.c.UserController [http-nio-8080-exec-10] USER:Cannot create user nikos
+2020-09-23 23:24:45,734 ERROR c.e.d.c.UserController [http-nio-8080-exec-1] USER:Cannot create user nikos
+2020-09-23 23:24:46,302 ERROR c.e.d.c.UserController [http-nio-8080-exec-2] USER:Cannot create user nikos
+2020-09-23 23:24:48,123 ERROR c.e.d.c.UserController [http-nio-8080-exec-3] USER:Cannot create user nikos
